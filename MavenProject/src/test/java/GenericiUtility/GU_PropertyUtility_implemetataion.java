@@ -62,7 +62,7 @@ public class GU_PropertyUtility_implemetataion {
 	    
 	    driver.findElement(By.name("expectedCloseDate")).click();
 		
-		
+		//code implements generic utility
 		
 	
 	}
